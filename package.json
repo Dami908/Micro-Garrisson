@@ -1,0 +1,25 @@
+{
+  "name": "Micro-Garrisson",
+  "version": "1.0.0",
+  "description": "Web gl build of a pretty intresting game made by me and two other freinds of mine\r Micro Garrison is a game built of the mechanics of the popular 2d game ikaruga as well as the concept of a whiteblood cell protecting the body from harmful viruses\r Players assume the role of the white blood cell and aim to battle this viruses as well as a final boss at the end of the level\r The Game consists of two lebvels and a final boss level. Enjoy",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dami908/Micro-Garrisson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dami908/Micro-Garrisson/issues"
+  },
+  "homepage": "https://github.com/Dami908/Micro-Garrisson#readme",
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "lite-server": "^2.6.1"
+  }
+}
